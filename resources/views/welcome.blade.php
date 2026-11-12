@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h1>{{ $sistema }}</h1>
+    <h1>{{ $entrega }}</h1>
     <p>{{ $mensagem }}</p>
 
     <h1>LogisExpress</h1>
